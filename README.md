@@ -1,2 +1,2 @@
 # Hello
-Just try it
+Just try it. Github
